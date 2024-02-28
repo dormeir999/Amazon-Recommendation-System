@@ -2,6 +2,12 @@
 
 Amazon product recommendation app is an app for predicting 5 recommended items for a given user. The engine behind the app is an ML model that has learned the users prior activities on Amazon: items rated, similar users activity, item ratings by other users.
 
+## Research
+
+The [Amazon product ratings prediction.ipynb](./Amazon%20product%20ratings%20prediction.ipynb)
+notebook contains the research and analysis conducted for the Amazon Recommendation System project. It encompasses data exploration, preprocessing, model building, and evaluation. The notebook outlines the methodology behind the recommendation engine and discusses the results and insights gained from the data.
+
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install streamlit.
