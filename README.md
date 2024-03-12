@@ -7,7 +7,7 @@ Amazon product recommendation app is an app for predicting 5 recommended items f
 The [Amazon product ratings prediction.ipynb](./Amazon%20product%20ratings%20prediction.ipynb)
 notebook contains the research and analysis conducted for the Amazon Recommendation System project. It encompasses data exploration, preprocessing, model building, and evaluation. The notebook outlines the methodology behind the recommendation engine and discusses the results and insights gained from the data.
 
-The only dataset needed for the project is the kaggle [amazon_reviews.csv](https://github.com/dormeir999/Amazon-Recommendation-System/blob/main/amazon_reviews.csv)
+The only dataset needed for the project is the [amazon_reviews.csv](https://github.com/dormeir999/Amazon-Recommendation-System/blob/main/amazon_reviews.csv), and it can also be downloaded directly from [kaggle](https://www.kaggle.com/datasets/rogate16/amazon-reviews-2018-full-dataset?resource=download).
 
 The rest of the datasets are just the byproducts and outputs of this dataset and the Jupyter notebook commands and `src` scripts.
 
